@@ -1,0 +1,1 @@
+# lab-template-vue-cli
